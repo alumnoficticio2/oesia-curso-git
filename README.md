@@ -1,2 +1,2 @@
 # oesia-curso-git
-actualizado julio 2026
+actualizado 1 julio 2026
